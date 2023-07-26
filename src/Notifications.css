@@ -1,0 +1,10 @@
+.Notifications {
+    border: 3px solid rgb(236, 41, 41);;
+    padding: 2em;
+}
+[data-id = '0'] {
+    color: blue;
+}
+[data-id = '1'] {
+    color: red;
+}
